@@ -1,4 +1,4 @@
-<form action="action_page.php" method="post">
+<!--<form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
@@ -20,4 +20,5 @@
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
-</form>
+</form>-->
+<h1> We can build the cahanges </h1>
